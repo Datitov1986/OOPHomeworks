@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace Core
 {
     /// <summary>
-    /// Класс калькулятор, выполняет матемаитческие действия с числами
+    /// Класс калькулятор, выполняет математические действия с числами
     /// </summary>
     public class Calculator
     {
